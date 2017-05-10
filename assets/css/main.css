@@ -1705,6 +1705,7 @@
 	p {
 		text-align: justify;
 		margin-bottom: 2em;
+		padding: 0 1em 0 1em
 	}
 
 	ul, ol, dl, table, blockquote {
